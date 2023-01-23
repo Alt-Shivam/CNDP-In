@@ -29,3 +29,7 @@ ansible-playbook -i hosts.ini localhost-post-kernel-install.yml
 ```
 make
 ```
+## Run Helloworld program
+```
+./builddir/examples/helloworld/helloworld
+```
